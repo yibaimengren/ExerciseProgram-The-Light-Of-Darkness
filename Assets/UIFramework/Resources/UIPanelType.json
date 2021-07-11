@@ -1,0 +1,43 @@
+{
+  "panelList": [
+    {
+      "panelTypeString": "QuestPanel",
+      "path": "UIPanel"
+    },
+    {
+      "panelTypeString": "MainPanel",
+      "path": "UIPanel"
+    },
+    {
+      "panelTypeString": "InventoryPanel",
+      "path": "UIPanel"
+    },
+    {
+      "panelTypeString": "StatusPanel",
+      "path": "UIPanel"
+    },
+    {
+      "panelTypeString": "DrugPanel",
+      "path": "UIPanel"
+    },
+    {
+      "panelTypeString": "EquipmentPanel",
+      "path": "UIPanel"
+    },
+    {
+      "panelTypeString": "SkillPanel",
+      "path": "UIPanel"
+    },
+    {
+      "panelTypeString": "WeaponShopPanel",
+      "path": "UIPanel"
+    },
+    {
+      "panelTypeString": "SettingPanel",
+      "path": "UIPanel"
+    }
+
+
+
+  ]
+}
